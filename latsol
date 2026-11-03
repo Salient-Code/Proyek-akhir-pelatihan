@@ -1,0 +1,11 @@
+1. 
+a.Jadi fungsi dari line itu adalah untuk zoom kepada gambar dalam lingkaran frame foto, jadi gambar full tidak akan masuk kepada circle frame
+b. setau saya, ini akan bekerja sebagai cropping dimana hanyak yang dalam border frame muncul yang diluar akan remain hidden
+
+2. 
+a.fungsinya adalah untuk menurunkan opacity warnya, jadi kaya misal warna hitam full jika diturunkan maka warnanya lebih lighter color
+b.misal jika kita punya sebuah tema color, kita bisa pake hex 8-digit yang sudah dipake dan turunkan opacitynya agar bisa lebih gampang temanya
+
+3.
+a. saya kayana pikir itu berguna agar lebih gampang menuju intended section dalam portofolio
+b. 
